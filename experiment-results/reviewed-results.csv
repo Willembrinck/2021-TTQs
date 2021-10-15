@@ -1,0 +1,313 @@
+Task number,Task,Image,UserID,TaskGroup,First,Overall Acc,years_exp_pharo,months_exp_pharo9,seeker_usefullness_qualitative,seeker_intuitive_qualitative,conf_control,dif_control,conf_seeker,dif_seeker,Ans Acc Control,Ans Acc Seeker,Control Score,Seeker Score,Any Score,TotalExpYears
+2,Task 02,control,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,1,,1,,1,3
+4,Task 04,control,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,1,,1,,1,3
+8,Task 08,control,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,1,,1,,1,3
+10,Task 10,control,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,1,,1,,1,3
+12,Task 12,control,beige-hemera,g1a,SeekerFirst,0.5,3,0,Excellent,Excellent,2,4,4,1,0.5,,,,,3
+1,Task 01,seeker,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,,1,,1,1,3
+3,Task 03,seeker,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,,1,,1,1,3
+5,Task 05,seeker,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,,1,,1,1,3
+9,Task 09,seeker,beige-hemera,g1a,SeekerFirst,0.5,3,0,Excellent,Excellent,2,4,4,1,,0.5,,,,3
+14,Task 14,seeker,beige-hemera,g1a,SeekerFirst,1,3,0,Excellent,Excellent,2,4,4,1,,1,,1,1,3
+1,Task 01,control,black-tartarus,g4a,ControlFirst,1,2,2,Very good,Satisfactory,3,5,5,2,1,,1,,1,2.166666667
+5,Task 05,control,black-tartarus,g4a,ControlFirst,1,2,2,Very good,Satisfactory,3,5,5,2,1,,1,,1,2.166666667
+7,Task 07,control,black-tartarus,g4a,ControlFirst,0,2,2,Very good,Satisfactory,3,5,5,2,0,,,,,2.166666667
+11,Task 11,control,black-tartarus,g4a,ControlFirst,0.1,2,2,Very good,Satisfactory,3,5,5,2,0.1,,,,,2.166666667
+13,Task 13,control,black-tartarus,g4a,ControlFirst,0.6,2,2,Very good,Satisfactory,3,5,5,2,0.6,,,,,2.166666667
+3,Task 03,seeker,black-tartarus,g4a,ControlFirst,1,2,2,Very good,Satisfactory,3,5,5,2,,1,,1,1,2.166666667
+6,Task 06,seeker,black-tartarus,g4a,ControlFirst,1,2,2,Very good,Satisfactory,3,5,5,2,,1,,1,1,2.166666667
+8,Task 08,seeker,black-tartarus,g4a,ControlFirst,1,2,2,Very good,Satisfactory,3,5,5,2,,1,,1,1,2.166666667
+12,Task 12,seeker,black-tartarus,g4a,ControlFirst,1,2,2,Very good,Satisfactory,3,5,5,2,,1,,1,1,2.166666667
+14,Task 14,seeker,black-tartarus,g4a,ControlFirst,0.125,2,2,Very good,Satisfactory,3,5,5,2,,0.125,,,,2.166666667
+3,Task 03,control,blue-hephaestus,g3b,SeekerFirst,1,3,0,Excellent,Very good,2,4,4,3,1,,1,,1,3
+5,Task 05,control,blue-hephaestus,g3b,SeekerFirst,0.5,3,0,Excellent,Very good,2,4,4,3,0.5,,,,,3
+7,Task 07,control,blue-hephaestus,g3b,SeekerFirst,0,3,0,Excellent,Very good,2,4,4,3,0,,,,,3
+11,Task 11,control,blue-hephaestus,g3b,SeekerFirst,0.1,3,0,Excellent,Very good,2,4,4,3,0.1,,,,,3
+13,Task 13,control,blue-hephaestus,g3b,SeekerFirst,0,3,0,Excellent,Very good,2,4,4,3,0,,,,,3
+4,Task 04,seeker,blue-hephaestus,g3b,SeekerFirst,1,3,0,Excellent,Very good,2,4,4,3,,1,,1,1,3
+6,Task 06,seeker,blue-hephaestus,g3b,SeekerFirst,1,3,0,Excellent,Very good,2,4,4,3,,1,,1,1,3
+8,Task 08,seeker,blue-hephaestus,g3b,SeekerFirst,1,3,0,Excellent,Very good,2,4,4,3,,1,,1,1,3
+12,Task 12,seeker,blue-hephaestus,g3b,SeekerFirst,0,3,0,Excellent,Very good,2,4,4,3,,0,,,,3
+14,Task 14,seeker,blue-hephaestus,g3b,SeekerFirst,0,3,0,Excellent,Very good,2,4,4,3,,0,,,,3
+4,Task 04,control,blue-hestia,g2b,ControlFirst,0.5714285714,1,3,Satisfactory,Satisfactory,2,4,2,3,0.5714285714,,,,,1.25
+9,Task 09,control,blue-hestia,g2b,ControlFirst,0.07142857143,1,3,Satisfactory,Satisfactory,2,4,2,3,0.07142857143,,,,,1.25
+6,Task 06,control,blue-hestia,g2b,ControlFirst,1,1,3,Satisfactory,Satisfactory,2,4,2,3,1,,1,,1,1.25
+13,Task 13,control,blue-hestia,g2b,ControlFirst,0.6,1,3,Satisfactory,Satisfactory,2,4,2,3,0.6,,,,,1.25
+1,Task 01,control,blue-hestia,g2b,ControlFirst,0,1,3,Satisfactory,Satisfactory,2,4,2,3,0,,,,,1.25
+3,Task 03,seeker,blue-hestia,g2b,ControlFirst,1,1,3,Satisfactory,Satisfactory,2,4,2,3,,1,,1,1,1.25
+2,Task 02,seeker,blue-hestia,g2b,ControlFirst,0,1,3,Satisfactory,Satisfactory,2,4,2,3,,0,,,,1.25
+7,Task 07,seeker,blue-hestia,g2b,ControlFirst,1,1,3,Satisfactory,Satisfactory,2,4,2,3,,1,,1,1,1.25
+1,Task 01,seeker,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+3,Task 03,control,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+5,Task 05,seeker,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+6,Task 06,control,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+7,Task 07,seeker,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+8,Task 08,control,blue-nyx,g4b,ControlFirst,0.5833333333,12,2,Very good,Satisfactory,2,4,4,2,0.5833333333,,,,,12.16666667
+11,Task 11,seeker,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+12,Task 12,control,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+13,Task 13,seeker,blue-nyx,g4b,ControlFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+14,Task 14,control,blue-nyx,g4b,ControlFirst,0.25,12,2,Very good,Satisfactory,2,4,4,2,0.25,,,,,12.16666667
+1,Task 01,control,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+4,Task 04,control,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+6,Task 06,control,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+9,Task 09,control,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+13,Task 13,control,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,1,,1,,1,12.16666667
+2,Task 02,seeker,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+3,Task 03,seeker,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+7,Task 07,seeker,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+10,Task 10,seeker,blue-skirion,g2b,SeekerFirst,1,12,2,Very good,Satisfactory,2,4,4,2,,1,,1,1,12.16666667
+11,Task 11,seeker,blue-skirion,g2b,SeekerFirst,0,12,2,Very good,Satisfactory,2,4,4,2,,0,,,,12.16666667
+1,Task 01,control,bronze-kaikias,g1b,ControlFirst,0,0,0,Satisfactory,Poor,4,2,1,4,0,,,,,0
+3,Task 03,control,bronze-kaikias,g1b,ControlFirst,1,0,0,Satisfactory,Poor,4,2,1,4,1,,1,,1,0
+5,Task 05,control,bronze-kaikias,g1b,ControlFirst,0.5,0,0,Satisfactory,Poor,4,2,1,4,0.5,,,,,0
+9,Task 09,control,bronze-kaikias,g1b,ControlFirst,0.1428571429,0,0,Satisfactory,Poor,4,2,1,4,0.1428571429,,,,,0
+14,Task 14,control,bronze-kaikias,g1b,ControlFirst,0.25,0,0,Satisfactory,Poor,4,2,1,4,0.25,,,,,0
+2,Task 02,seeker,bronze-kaikias,g1b,ControlFirst,0,0,0,Satisfactory,Poor,4,2,1,4,,0,,,,0
+4,Task 04,seeker,bronze-kaikias,g1b,ControlFirst,0.5,0,0,Satisfactory,Poor,4,2,1,4,,0.5,,,,0
+8,Task 08,seeker,bronze-kaikias,g1b,ControlFirst,1,0,0,Satisfactory,Poor,4,2,1,4,,1,,1,1,0
+10,Task 10,seeker,bronze-kaikias,g1b,ControlFirst,0,0,0,Satisfactory,Poor,4,2,1,4,,0,,,,0
+12,Task 12,seeker,bronze-kaikias,g1b,ControlFirst,0,0,0,Satisfactory,Poor,4,2,1,4,,0,,,,0
+1,Task 01,seeker,cyan-athena,g4b,SeekerFirst,1,5,0,Very good,Satisfactory,4,2,5,1,,1,,1,1,5
+3,Task 03,control,cyan-athena,g4b,SeekerFirst,1,5,0,Very good,Satisfactory,4,2,5,1,1,,1,,1,5
+5,Task 05,seeker,cyan-athena,g4b,SeekerFirst,1,5,0,Very good,Satisfactory,4,2,5,1,,1,,1,1,5
+6,Task 06,control,cyan-athena,g4b,SeekerFirst,1,5,0,Very good,Satisfactory,4,2,5,1,1,,1,,1,5
+7,Task 07,seeker,cyan-athena,g4b,SeekerFirst,1,5,0,Very good,Satisfactory,4,2,5,1,,1,,1,1,5
+8,Task 08,control,cyan-athena,g4b,SeekerFirst,0.8333333333,5,0,Very good,Satisfactory,4,2,5,1,0.8333333333,,,,,5
+11,Task 11,seeker,cyan-athena,g4b,SeekerFirst,1,5,0,Very good,Satisfactory,4,2,5,1,,1,,1,1,5
+12,Task 12,control,cyan-athena,g4b,SeekerFirst,0.375,5,0,Very good,Satisfactory,4,2,5,1,0.375,,,,,5
+13,Task 13,seeker,cyan-athena,g4b,SeekerFirst,1,5,0,Very good,Satisfactory,4,2,5,1,,1,,1,1,5
+14,Task 14,control,cyan-athena,g4b,SeekerFirst,0.25,5,0,Very good,Satisfactory,4,2,5,1,0.25,,,,,5
+2,Task 02,control,golden-apollo,g1a,ControlFirst,1,1,0,Excellent,Excellent,2,4,5,1,1,,1,,1,1
+4,Task 04,control,golden-apollo,g1a,ControlFirst,1,1,0,Excellent,Excellent,2,4,5,1,1,,1,,1,1
+8,Task 08,control,golden-apollo,g1a,ControlFirst,0.8333333333,1,0,Excellent,Excellent,2,4,5,1,0.8333333333,,,,,1
+10,Task 10,control,golden-apollo,g1a,ControlFirst,0,1,0,Excellent,Excellent,2,4,5,1,0,,,,,1
+12,Task 12,control,golden-apollo,g1a,ControlFirst,0,1,0,Excellent,Excellent,2,4,5,1,0,,,,,1
+1,Task 01,seeker,golden-apollo,g1a,ControlFirst,1,1,0,Excellent,Excellent,2,4,5,1,,1,,1,1,1
+3,Task 03,seeker,golden-apollo,g1a,ControlFirst,1,1,0,Excellent,Excellent,2,4,5,1,,1,,1,1,1
+5,Task 05,seeker,golden-apollo,g1a,ControlFirst,1,1,0,Excellent,Excellent,2,4,5,1,,1,,1,1,1
+9,Task 09,seeker,golden-apollo,g1a,ControlFirst,1,1,0,Excellent,Excellent,2,4,5,1,,1,,1,1,1
+14,Task 14,seeker,golden-apollo,g1a,ControlFirst,1,1,0,Excellent,Excellent,2,4,5,1,,1,,1,1,1
+2,Task 02,control,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,1,,1,,1,5.083333333
+4,Task 04,control,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,1,,1,,1,5.083333333
+8,Task 08,control,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,1,,1,,1,5.083333333
+10,Task 10,control,golden-boreas,g1a,SeekerFirst,0,5,1,Satisfactory,Very good,3,2,4,1,0,,,,,5.083333333
+12,Task 12,control,golden-boreas,g1a,SeekerFirst,0.5,5,1,Satisfactory,Very good,3,2,4,1,0.5,,,,,5.083333333
+1,Task 01,seeker,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,,1,,1,1,5.083333333
+3,Task 03,seeker,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,,1,,1,1,5.083333333
+5,Task 05,seeker,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,,1,,1,1,5.083333333
+9,Task 09,seeker,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,,1,,1,1,5.083333333
+14,Task 14,seeker,golden-boreas,g1a,SeekerFirst,1,5,1,Satisfactory,Very good,3,2,4,1,,1,,1,1,5.083333333
+1,Task 01,seeker,gray-hera,g4b,ControlFirst,1,1,1,Satisfactory,Very good,2,3,4,2,,1,,1,1,1.083333333
+3,Task 03,control,gray-hera,g4b,ControlFirst,1,1,1,Satisfactory,Very good,2,3,4,2,1,,1,,1,1.083333333
+5,Task 05,seeker,gray-hera,g4b,ControlFirst,1,1,1,Satisfactory,Very good,2,3,4,2,,1,,1,1,1.083333333
+6,Task 06,control,gray-hera,g4b,ControlFirst,1,1,1,Satisfactory,Very good,2,3,4,2,1,,1,,1,1.083333333
+7,Task 07,seeker,gray-hera,g4b,ControlFirst,1,1,1,Satisfactory,Very good,2,3,4,2,,1,,1,1,1.083333333
+8,Task 08,control,gray-hera,g4b,ControlFirst,1,1,1,Satisfactory,Very good,2,3,4,2,1,,1,,1,1.083333333
+11,Task 11,seeker,gray-hera,g4b,ControlFirst,1,1,1,Satisfactory,Very good,2,3,4,2,,1,,1,1,1.083333333
+12,Task 12,control,gray-hera,g4b,ControlFirst,0.625,1,1,Satisfactory,Very good,2,3,4,2,0.625,,,,,1.083333333
+13,Task 13,seeker,gray-hera,g4b,ControlFirst,0.8,1,1,Satisfactory,Very good,2,3,4,2,,0.8,,,,1.083333333
+14,Task 14,control,gray-hera,g4b,ControlFirst,0.25,1,1,Satisfactory,Very good,2,3,4,2,0.25,,,,,1.083333333
+1,Task 01,control,green-tartarus,g1b,SeekerFirst,1,15,0,Excellent,Very good,3,3,4,1,1,,1,,1,15
+3,Task 03,control,green-tartarus,g1b,SeekerFirst,1,15,0,Excellent,Very good,3,3,4,1,1,,1,,1,15
+5,Task 05,control,green-tartarus,g1b,SeekerFirst,0.8333333333,15,0,Excellent,Very good,3,3,4,1,0.8333333333,,,,,15
+9,Task 09,control,green-tartarus,g1b,SeekerFirst,0.2142857143,15,0,Excellent,Very good,3,3,4,1,0.2142857143,,,,,15
+14,Task 14,control,green-tartarus,g1b,SeekerFirst,0.5,15,0,Excellent,Very good,3,3,4,1,0.5,,,,,15
+2,Task 02,seeker,green-tartarus,g1b,SeekerFirst,1,15,0,Excellent,Very good,3,3,4,1,,1,,1,1,15
+4,Task 04,seeker,green-tartarus,g1b,SeekerFirst,1,15,0,Excellent,Very good,3,3,4,1,,1,,1,1,15
+8,Task 08,seeker,green-tartarus,g1b,SeekerFirst,1,15,0,Excellent,Very good,3,3,4,1,,1,,1,1,15
+10,Task 10,seeker,green-tartarus,g1b,SeekerFirst,1,15,0,Excellent,Very good,3,3,4,1,,1,,1,1,15
+12,Task 12,seeker,green-tartarus,g1b,SeekerFirst,1,15,0,Excellent,Very good,3,3,4,1,,1,,1,1,15
+3,Task 03,seeker,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,,1,,1,1,16
+4,Task 04,control,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,1,,1,,1,16
+5,Task 05,seeker,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,,1,,1,1,16
+6,Task 06,control,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,1,,1,,1,16
+7,Task 07,seeker,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,,1,,1,1,16
+8,Task 08,control,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,1,,1,,1,16
+11,Task 11,seeker,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,,1,,1,1,16
+12,Task 12,control,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,1,,1,,1,16
+13,Task 13,seeker,lilac-euros,g3a,SeekerFirst,1,8,96,Excellent,Excellent,5,4,5,1,,1,,1,1,16
+14,Task 14,control,lilac-euros,g3a,SeekerFirst,0.25,8,96,Excellent,Excellent,5,4,5,1,0.25,,,,,16
+1,Task 01,control,magenta-ares,g1b,ControlFirst,1,0,4,Satisfactory,Very good,2,3,3,2,1,,1,,1,0.3333333333
+3,Task 03,control,magenta-ares,g1b,ControlFirst,0.5,0,4,Satisfactory,Very good,2,3,3,2,0.5,,,,,0.3333333333
+5,Task 05,control,magenta-ares,g1b,ControlFirst,1,0,4,Satisfactory,Very good,2,3,3,2,1,,1,,1,0.3333333333
+9,Task 09,control,magenta-ares,g1b,ControlFirst,0.07142857143,0,4,Satisfactory,Very good,2,3,3,2,0.07142857143,,,,,0.3333333333
+14,Task 14,control,magenta-ares,g1b,ControlFirst,0.25,0,4,Satisfactory,Very good,2,3,3,2,0.25,,,,,0.3333333333
+2,Task 02,seeker,magenta-ares,g1b,ControlFirst,0,0,4,Satisfactory,Very good,2,3,3,2,,0,,,,0.3333333333
+4,Task 04,seeker,magenta-ares,g1b,ControlFirst,1,0,4,Satisfactory,Very good,2,3,3,2,,1,,1,1,0.3333333333
+8,Task 08,seeker,magenta-ares,g1b,ControlFirst,1,0,4,Satisfactory,Very good,2,3,3,2,,1,,1,1,0.3333333333
+10,Task 10,seeker,magenta-ares,g1b,ControlFirst,0,0,4,Satisfactory,Very good,2,3,3,2,,0,,,,0.3333333333
+12,Task 12,seeker,magenta-ares,g1b,ControlFirst,1,0,4,Satisfactory,Very good,2,3,3,2,,1,,1,1,0.3333333333
+4,Task 04,control,magenta-thesis,g3a,SeekerFirst,1,0,1,Very good,Excellent,2,5,4,3,1,,1,,1,0.08333333333
+6,Task 06,control,magenta-thesis,g3a,SeekerFirst,0.5,0,1,Very good,Excellent,2,5,4,3,0.5,,,,,0.08333333333
+8,Task 08,control,magenta-thesis,g3a,SeekerFirst,0,0,1,Very good,Excellent,2,5,4,3,0,,,,,0.08333333333
+12,Task 12,control,magenta-thesis,g3a,SeekerFirst,0.5,0,1,Very good,Excellent,2,5,4,3,0.5,,,,,0.08333333333
+14,Task 14,control,magenta-thesis,g3a,SeekerFirst,0.5,0,1,Very good,Excellent,2,5,4,3,0.5,,,,,0.08333333333
+3,Task 03,seeker,magenta-thesis,g3a,SeekerFirst,1,0,1,Very good,Excellent,2,5,4,3,,1,,1,1,0.08333333333
+5,Task 05,seeker,magenta-thesis,g3a,SeekerFirst,1,0,1,Very good,Excellent,2,5,4,3,,1,,1,1,0.08333333333
+7,Task 07,seeker,magenta-thesis,g3a,SeekerFirst,1,0,1,Very good,Excellent,2,5,4,3,,1,,1,1,0.08333333333
+11,Task 11,seeker,magenta-thesis,g3a,SeekerFirst,1,0,1,Very good,Excellent,2,5,4,3,,1,,1,1,0.08333333333
+13,Task 13,seeker,magenta-thesis,g3a,SeekerFirst,1,0,1,Very good,Excellent,2,5,4,3,,1,,1,1,0.08333333333
+1,Task 01,control,mauve-chaos,g1b,ControlFirst,0,2,3,Very good,Very good,3,4,5,1,0,,,,,2.25
+3,Task 03,control,mauve-chaos,g1b,ControlFirst,0.5,2,3,Very good,Very good,3,4,5,1,0.5,,,,,2.25
+5,Task 05,control,mauve-chaos,g1b,ControlFirst,1,2,3,Very good,Very good,3,4,5,1,1,,1,,1,2.25
+9,Task 09,control,mauve-chaos,g1b,ControlFirst,0.4285714286,2,3,Very good,Very good,3,4,5,1,0.4285714286,,,,,2.25
+14,Task 14,control,mauve-chaos,g1b,ControlFirst,0,2,3,Very good,Very good,3,4,5,1,0,,,,,2.25
+2,Task 02,seeker,mauve-chaos,g1b,ControlFirst,0,2,3,Very good,Very good,3,4,5,1,,0,,,,2.25
+4,Task 04,seeker,mauve-chaos,g1b,ControlFirst,1,2,3,Very good,Very good,3,4,5,1,,1,,1,1,2.25
+8,Task 08,seeker,mauve-chaos,g1b,ControlFirst,1,2,3,Very good,Very good,3,4,5,1,,1,,1,1,2.25
+10,Task 10,seeker,mauve-chaos,g1b,ControlFirst,1,2,3,Very good,Very good,3,4,5,1,,1,,1,1,2.25
+12,Task 12,seeker,mauve-chaos,g1b,ControlFirst,1,2,3,Very good,Very good,3,4,5,1,,1,,1,1,2.25
+1,Task 01,control,mauve-notos,g2b,SeekerFirst,1,5,1,Excellent,Excellent,3,3,3,3,1,,1,,1,5.083333333
+4,Task 04,control,mauve-notos,g2b,SeekerFirst,0.5714285714,5,1,Excellent,Excellent,3,3,3,3,0.5714285714,,,,,5.083333333
+6,Task 06,control,mauve-notos,g2b,SeekerFirst,1,5,1,Excellent,Excellent,3,3,3,3,1,,1,,1,5.083333333
+9,Task 09,control,mauve-notos,g2b,SeekerFirst,0.2857142857,5,1,Excellent,Excellent,3,3,3,3,0.2857142857,,,,,5.083333333
+13,Task 13,control,mauve-notos,g2b,SeekerFirst,0.6,5,1,Excellent,Excellent,3,3,3,3,0.6,,,,,5.083333333
+2,Task 02,seeker,mauve-notos,g2b,SeekerFirst,0,5,1,Excellent,Excellent,3,3,3,3,,0,,,,5.083333333
+3,Task 03,seeker,mauve-notos,g2b,SeekerFirst,0.5,5,1,Excellent,Excellent,3,3,3,3,,0.5,,,,5.083333333
+7,Task 07,seeker,mauve-notos,g2b,SeekerFirst,0.75,5,1,Excellent,Excellent,3,3,3,3,,0.75,,,,5.083333333
+10,Task 10,seeker,mauve-notos,g2b,SeekerFirst,1,5,1,Excellent,Excellent,3,3,3,3,,1,,1,1,5.083333333
+11,Task 11,seeker,mauve-notos,g2b,SeekerFirst,1,5,1,Excellent,Excellent,3,3,3,3,,1,,1,1,5.083333333
+2,Task 02,control,olive-hades,g1a,ControlFirst,1,5,1,Excellent,Excellent,3,3,3,3,1,,1,,1,5.083333333
+4,Task 04,control,olive-hades,g1a,ControlFirst,0.5714285714,5,1,Excellent,Excellent,3,3,3,3,0.5714285714,,,,,5.083333333
+8,Task 08,control,olive-hades,g1a,ControlFirst,0.08333333333,5,1,Excellent,Excellent,3,3,3,3,0.08333333333,,,,,5.083333333
+10,Task 10,control,olive-hades,g1a,ControlFirst,0,5,1,Excellent,Excellent,3,3,3,3,0,,,,,5.083333333
+12,Task 12,control,olive-hades,g1a,ControlFirst,0,5,1,Excellent,Excellent,3,3,3,3,0,,,,,5.083333333
+1,Task 01,seeker,olive-hades,g1a,ControlFirst,0,5,1,Excellent,Excellent,3,3,3,3,,0,,,,5.083333333
+3,Task 03,seeker,olive-hades,g1a,ControlFirst,0.5,5,1,Excellent,Excellent,3,3,3,3,,0.5,,,,5.083333333
+5,Task 05,seeker,olive-hades,g1a,ControlFirst,1,5,1,Excellent,Excellent,3,3,3,3,,1,,1,1,5.083333333
+9,Task 09,seeker,olive-hades,g1a,ControlFirst,0.2857142857,5,1,Excellent,Excellent,3,3,3,3,,0.2857142857,,,,5.083333333
+14,Task 14,seeker,olive-hades,g1a,ControlFirst,0,5,1,Excellent,Excellent,3,3,3,3,,0,,,,5.083333333
+1,Task 01,control,orange-apeliotes,g2b,ControlFirst,1,20,24,Excellent,Very good,4,3,3,3,1,,1,,1,22
+4,Task 04,control,orange-apeliotes,g2b,ControlFirst,1,20,24,Excellent,Very good,4,3,3,3,1,,1,,1,22
+6,Task 06,control,orange-apeliotes,g2b,ControlFirst,1,20,24,Excellent,Very good,4,3,3,3,1,,1,,1,22
+9,Task 09,control,orange-apeliotes,g2b,ControlFirst,0.4285714286,20,24,Excellent,Very good,4,3,3,3,0.4285714286,,,,,22
+13,Task 13,control,orange-apeliotes,g2b,ControlFirst,0.3,20,24,Excellent,Very good,4,3,3,3,0.3,,,,,22
+2,Task 02,seeker,orange-apeliotes,g2b,ControlFirst,1,20,24,Excellent,Very good,4,3,3,3,,1,,1,1,22
+3,Task 03,seeker,orange-apeliotes,g2b,ControlFirst,0.5,20,24,Excellent,Very good,4,3,3,3,,0.5,,,,22
+7,Task 07,seeker,orange-apeliotes,g2b,ControlFirst,1,20,24,Excellent,Very good,4,3,3,3,,1,,1,1,22
+10,Task 10,seeker,orange-apeliotes,g2b,ControlFirst,1,20,24,Excellent,Very good,4,3,3,3,,1,,1,1,22
+11,Task 11,seeker,orange-apeliotes,g2b,ControlFirst,1,20,24,Excellent,Very good,4,3,3,3,,1,,1,1,22
+2,Task 02,control,orange-gaia,g2a,SeekerFirst,1,11,12,Excellent,Very good,5,5,4,2,1,,1,,1,12
+3,Task 03,control,orange-gaia,g2a,SeekerFirst,1,11,12,Excellent,Very good,5,5,4,2,1,,1,,1,12
+7,Task 07,control,orange-gaia,g2a,SeekerFirst,0,11,12,Excellent,Very good,5,5,4,2,0,,,,,12
+10,Task 10,control,orange-gaia,g2a,SeekerFirst,0,11,12,Excellent,Very good,5,5,4,2,0,,,,,12
+11,Task 11,control,orange-gaia,g2a,SeekerFirst,0,11,12,Excellent,Very good,5,5,4,2,0,,,,,12
+1,Task 01,seeker,orange-gaia,g2a,SeekerFirst,1,11,12,Excellent,Very good,5,5,4,2,,1,,1,1,12
+4,Task 04,seeker,orange-gaia,g2a,SeekerFirst,1,11,12,Excellent,Very good,5,5,4,2,,1,,1,1,12
+6,Task 06,seeker,orange-gaia,g2a,SeekerFirst,1,11,12,Excellent,Very good,5,5,4,2,,1,,1,1,12
+9,Task 09,seeker,orange-gaia,g2a,SeekerFirst,1,11,12,Excellent,Very good,5,5,4,2,,1,,1,1,12
+13,Task 13,seeker,orange-gaia,g2a,SeekerFirst,1,11,12,Excellent,Very good,5,5,4,2,,1,,1,1,12
+2,Task 02,control,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,1,,1,,1,5
+4,Task 04,control,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,1,,1,,1,5
+8,Task 08,control,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,1,,1,,1,5
+10,Task 10,control,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,1,,1,,1,5
+12,Task 12,control,orange-nyx,g1a,SeekerFirst,0.5,4,12,Excellent,Satisfactory,3,5,5,2,0.5,,,,,5
+1,Task 01,seeker,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,,1,,1,1,5
+3,Task 03,seeker,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,,1,,1,1,5
+5,Task 05,seeker,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,,1,,1,1,5
+9,Task 09,seeker,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,,1,,1,1,5
+14,Task 14,seeker,orange-nyx,g1a,SeekerFirst,1,4,12,Excellent,Satisfactory,3,5,5,2,,1,,1,1,5
+2,Task 02,control,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,1,,1,,1,2.5
+3,Task 03,control,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,1,,1,,1,2.5
+7,Task 07,control,pink-hades,g2a,ControlFirst,0.25,2,6,Very good,Very good,3,3,4,1,0.25,,,,,2.5
+10,Task 10,control,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,1,,1,,1,2.5
+11,Task 11,control,pink-hades,g2a,ControlFirst,0.3,2,6,Very good,Very good,3,3,4,1,0.3,,,,,2.5
+1,Task 01,seeker,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,,1,,1,1,2.5
+4,Task 04,seeker,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,,1,,1,1,2.5
+6,Task 06,seeker,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,,1,,1,1,2.5
+9,Task 09,seeker,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,,1,,1,1,2.5
+13,Task 13,seeker,pink-hades,g2a,ControlFirst,1,2,6,Very good,Very good,3,3,4,1,,1,,1,1,2.5
+2,Task 02,control,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,1,,1,,1,2.5
+3,Task 03,control,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,1,,1,,1,2.5
+7,Task 07,control,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,1,,1,,1,2.5
+10,Task 10,control,pink-hephaestus,g2a,SeekerFirst,0,2,6,Excellent,Very good,4,4,5,1,0,,,,,2.5
+11,Task 11,control,pink-hephaestus,g2a,SeekerFirst,0,2,6,Excellent,Very good,4,4,5,1,0,,,,,2.5
+1,Task 01,seeker,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,,1,,1,1,2.5
+4,Task 04,seeker,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,,1,,1,1,2.5
+6,Task 06,seeker,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,,1,,1,1,2.5
+9,Task 09,seeker,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,,1,,1,1,2.5
+13,Task 13,seeker,pink-hephaestus,g2a,SeekerFirst,1,2,6,Excellent,Very good,4,4,5,1,,1,,1,1,2.5
+2,Task 02,control,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,1,,1,,1,3.5
+3,Task 03,control,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,1,,1,,1,3.5
+7,Task 07,control,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,1,,1,,1,3.5
+10,Task 10,control,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,1,,1,,1,3.5
+11,Task 11,control,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,1,,1,,1,3.5
+1,Task 01,seeker,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,,1,,1,1,3.5
+4,Task 04,seeker,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,,1,,1,1,3.5
+6,Task 06,seeker,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,,1,,1,1,3.5
+9,Task 09,seeker,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,,1,,1,1,3.5
+13,Task 13,seeker,purple-ares,g2a,SeekerFirst,1,3,6,Excellent,Satisfactory,4,4,5,2,,1,,1,1,3.5
+1,Task 01,seeker,rose-apeliotes,g4b,SeekerFirst,1,2,12,Very good,Satisfactory,3,4,4,3,,1,,1,1,3
+3,Task 03,control,rose-apeliotes,g4b,SeekerFirst,0.5,2,12,Very good,Satisfactory,3,4,4,3,0.5,,,,,3
+5,Task 05,seeker,rose-apeliotes,g4b,SeekerFirst,1,2,12,Very good,Satisfactory,3,4,4,3,,1,,1,1,3
+6,Task 06,control,rose-apeliotes,g4b,SeekerFirst,1,2,12,Very good,Satisfactory,3,4,4,3,1,,1,,1,3
+7,Task 07,seeker,rose-apeliotes,g4b,SeekerFirst,1,2,12,Very good,Satisfactory,3,4,4,3,,1,,1,1,3
+8,Task 08,control,rose-apeliotes,g4b,SeekerFirst,0,2,12,Very good,Satisfactory,3,4,4,3,0,,,,,3
+11,Task 11,seeker,rose-apeliotes,g4b,SeekerFirst,1,2,12,Very good,Satisfactory,3,4,4,3,,1,,1,1,3
+12,Task 12,control,rose-apeliotes,g4b,SeekerFirst,0.5,2,12,Very good,Satisfactory,3,4,4,3,0.5,,,,,3
+13,Task 13,seeker,rose-apeliotes,g4b,SeekerFirst,1,2,12,Very good,Satisfactory,3,4,4,3,,1,,1,1,3
+14,Task 14,control,rose-apeliotes,g4b,SeekerFirst,0.25,2,12,Very good,Satisfactory,3,4,4,3,0.25,,,,,3
+3,Task 03,control,rose-ares,g3b,ControlFirst,0.5,0.5,5,Excellent,Excellent,2,4,4,1,0.5,,,,,0.9166666667
+4,Task 04,seeker,rose-ares,g3b,ControlFirst,1,0.5,5,Excellent,Excellent,2,4,4,1,,1,,1,1,0.9166666667
+5,Task 05,control,rose-ares,g3b,ControlFirst,1,0.5,5,Excellent,Excellent,2,4,4,1,1,,1,,1,0.9166666667
+6,Task 06,seeker,rose-ares,g3b,ControlFirst,1,0.5,5,Excellent,Excellent,2,4,4,1,,1,,1,1,0.9166666667
+7,Task 07,control,rose-ares,g3b,ControlFirst,0.25,0.5,5,Excellent,Excellent,2,4,4,1,0.25,,,,,0.9166666667
+8,Task 08,seeker,rose-ares,g3b,ControlFirst,1,0.5,5,Excellent,Excellent,2,4,4,1,,1,,1,1,0.9166666667
+11,Task 11,control,rose-ares,g3b,ControlFirst,0.2,0.5,5,Excellent,Excellent,2,4,4,1,0.2,,,,,0.9166666667
+13,Task 13,control,rose-ares,g3b,ControlFirst,0.6,0.5,5,Excellent,Excellent,2,4,4,1,0.6,,,,,0.9166666667
+14,Task 14,seeker,rose-ares,g3b,ControlFirst,0,0.5,5,Excellent,Excellent,2,4,4,1,,0,,,,0.9166666667
+3,Task 03,seeker,rose-dementer,g3a,ControlFirst,1,5,1,Very good,Fair,2,5,3,2,,1,,1,1,5.083333333
+4,Task 04,control,rose-dementer,g3a,ControlFirst,0.5714285714,5,1,Very good,Fair,2,5,3,2,0.5714285714,,,,,5.083333333
+5,Task 05,seeker,rose-dementer,g3a,ControlFirst,0.5,5,1,Very good,Fair,2,5,3,2,,0.5,,,,5.083333333
+6,Task 06,control,rose-dementer,g3a,ControlFirst,0.5,5,1,Very good,Fair,2,5,3,2,0.5,,,,,5.083333333
+7,Task 07,seeker,rose-dementer,g3a,ControlFirst,1,5,1,Very good,Fair,2,5,3,2,,1,,1,1,5.083333333
+8,Task 08,control,rose-dementer,g3a,ControlFirst,1,5,1,Very good,Fair,2,5,3,2,1,,1,,1,5.083333333
+11,Task 11,seeker,rose-dementer,g3a,ControlFirst,1,5,1,Very good,Fair,2,5,3,2,,1,,1,1,5.083333333
+12,Task 12,control,rose-dementer,g3a,ControlFirst,0,5,1,Very good,Fair,2,5,3,2,0,,,,,5.083333333
+13,Task 13,seeker,rose-dementer,g3a,ControlFirst,1,5,1,Very good,Fair,2,5,3,2,,1,,1,1,5.083333333
+14,Task 14,control,rose-dementer,g3a,ControlFirst,0,5,1,Very good,Fair,2,5,3,2,0,,,,,5.083333333
+1,Task 01,control,silver-erebus,g1b,SeekerFirst,0,0,3,Excellent,Very good,1,5,3,4,0,,,,,0.25
+3,Task 03,control,silver-erebus,g1b,SeekerFirst,0.5,0,3,Excellent,Very good,1,5,3,4,0.5,,,,,0.25
+2,Task 02,seeker,silver-erebus,g1b,SeekerFirst,0,0,3,Excellent,Very good,1,5,3,4,,0,,,,0.25
+4,Task 04,seeker,silver-erebus,g1b,SeekerFirst,0.7142857143,0,3,Excellent,Very good,1,5,3,4,,0.7142857143,,,,0.25
+8,Task 08,seeker,silver-erebus,g1b,SeekerFirst,1,0,3,Excellent,Very good,1,5,3,4,,1,,1,1,0.25
+10,Task 10,seeker,silver-erebus,g1b,SeekerFirst,0,0,3,Excellent,Very good,1,5,3,4,,0,,,,0.25
+12,Task 12,seeker,silver-erebus,g1b,SeekerFirst,0,0,3,Excellent,Very good,1,5,3,4,,0,,,,0.25
+2,Task 02,control,silver-hermes,g1a,ControlFirst,1,0,2,Excellent,Very good,2,5,4,2,1,,1,,1,0.1666666667
+4,Task 04,control,silver-hermes,g1a,ControlFirst,0.4285714286,0,2,Excellent,Very good,2,5,4,2,0.4285714286,,,,,0.1666666667
+8,Task 08,control,silver-hermes,g1a,ControlFirst,0,0,2,Excellent,Very good,2,5,4,2,0,,,,,0.1666666667
+1,Task 01,seeker,silver-hermes,g1a,ControlFirst,0,0,2,Excellent,Very good,2,5,4,2,,0,,,,0.1666666667
+3,Task 03,seeker,silver-hermes,g1a,ControlFirst,1,0,2,Excellent,Very good,2,5,4,2,,1,,1,1,0.1666666667
+5,Task 05,seeker,silver-hermes,g1a,ControlFirst,1,0,2,Excellent,Very good,2,5,4,2,,1,,1,1,0.1666666667
+9,Task 09,seeker,silver-hermes,g1a,ControlFirst,1,0,2,Excellent,Very good,2,5,4,2,,1,,1,1,0.1666666667
+14,Task 14,seeker,silver-hermes,g1a,ControlFirst,0,0,2,Excellent,Very good,2,5,4,2,,0,,,,0.1666666667
+1,Task 01,control,white-artemis,g1b,SeekerFirst,1,10,19,Excellent,Very good,5,4,5,1,1,,1,,1,11.58333333
+3,Task 03,control,white-artemis,g1b,SeekerFirst,1,10,19,Excellent,Very good,5,4,5,1,1,,1,,1,11.58333333
+5,Task 05,control,white-artemis,g1b,SeekerFirst,1,10,19,Excellent,Very good,5,4,5,1,1,,1,,1,11.58333333
+9,Task 09,control,white-artemis,g1b,SeekerFirst,0.4285714286,10,19,Excellent,Very good,5,4,5,1,0.4285714286,,,,,11.58333333
+14,Task 14,control,white-artemis,g1b,SeekerFirst,0.5,10,19,Excellent,Very good,5,4,5,1,0.5,,,,,11.58333333
+2,Task 02,seeker,white-artemis,g1b,SeekerFirst,1,10,19,Excellent,Very good,5,4,5,1,,1,,1,1,11.58333333
+4,Task 04,seeker,white-artemis,g1b,SeekerFirst,1,10,19,Excellent,Very good,5,4,5,1,,1,,1,1,11.58333333
+8,Task 08,seeker,white-artemis,g1b,SeekerFirst,1,10,19,Excellent,Very good,5,4,5,1,,1,,1,1,11.58333333
+10,Task 10,seeker,white-artemis,g1b,SeekerFirst,1,10,19,Excellent,Very good,5,4,5,1,,1,,1,1,11.58333333
+12,Task 12,seeker,white-artemis,g1b,SeekerFirst,0.5,10,19,Excellent,Very good,5,4,5,1,,0.5,,,,11.58333333
+3,Task 03,seeker,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,,1,,1,1,13.5
+4,Task 04,control,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,1,,1,,1,13.5
+5,Task 05,seeker,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,,1,,1,1,13.5
+6,Task 06,control,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,1,,1,,1,13.5
+7,Task 07,seeker,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,,1,,,,13.5
+8,Task 08,control,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,1,,1,,1,13.5
+11,Task 11,seeker,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,,1,,1,1,13.5
+12,Task 12,control,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,1,,1,,1,13.5
+13,Task 13,seeker,white-zeus,g3a,ControlFirst,1,12,18,Excellent,Very good,5,2,5,1,,1,,1,1,13.5
+14,Task 14,control,white-zeus,g3a,ControlFirst,0.25,12,18,Excellent,Very good,5,2,5,1,0.25,,,,,13.5
+2,Task 02,control,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,1,,1,,1,10.83333333
+3,Task 03,control,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,1,,1,,1,10.83333333
+7,Task 07,control,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,1,,1,,1,10.83333333
+10,Task 10,control,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,1,,1,,1,10.83333333
+11,Task 11,control,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,1,,1,,1,10.83333333
+1,Task 01,seeker,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,,1,,1,1,10.83333333
+4,Task 04,seeker,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,,1,,1,1,10.83333333
+6,Task 06,seeker,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,,1,,1,1,10.83333333
+9,Task 09,seeker,yellow-phanes,g2a,ControlFirst,1,10,10,Very good,Satisfactory,3,4,3,3,,1,,1,1,10.83333333
+13,Task 13,seeker,yellow-phanes,g2a,ControlFirst,0.8,10,10,Very good,Satisfactory,3,4,3,3,,0.8,,,,10.83333333
