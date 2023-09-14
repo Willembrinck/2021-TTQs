@@ -6,7 +6,7 @@ Time traveling queries publication repository. 2021.
 1. How to execute the examples. 
 
 ## 1. Experiment results.
-Raw experiment results are contained in the folder [experiment-results](./experiment-results).  
+Anonymized experiment results are contained in the folder [experiment-results](./experiment-results).  
 
 ## 2. Time-Traveling Queries repository.
 The repository includes code and examples to execute TTQs programmatically and through the UI.
@@ -29,9 +29,13 @@ The `SeekerInstallHelpers>>#install` will:
 
 ### Limitations
 
-- Currently, supports only test cases. 
-  - It doesn't support tests tear down phase at the moment.
+- This version of Seeker supports only test cases. 
+  - It doesn't support tests tear down phase.
 - Performance: Executing code with Seeker is slow. If it takes more than 10 seconds to coplete an operation, force quit it.
+
+The version of Seeker available in this repository is designed specifically for the experiment, and currently outdated for other purposes.
+
+An updated version of Seeker is available in its official repository: https://github.com/maxwills/SeekerDebugger
 
 ## 3. How to execute the examples.
 
